@@ -2,5 +2,5 @@
   "name": "MHPM Scripts",
   "version": "1.0.0",
   "dependencies": ["Easy XHR"],
-  "pkgfile": "https://cdn.staticaly.com/gh/munchkinhalfling/mhpm-scripts@latest/mhpm-scripts.js"
+  "pkgfile": "https://raw.githack.com/munchkinhalfling/mhpm-scripts/master/mhpm-scripts.js"
 }
