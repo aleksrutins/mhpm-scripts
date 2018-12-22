@@ -1,0 +1,6 @@
+{
+  "name": "MHPM Scripts",
+  "version": "1.0.0",
+  "dependencies": ["Easy XHR"],
+  "pkgfile": "https://cdn.jsdelivr.net/gh/munchkinhalfling/mhpm-scripts/mhpm-scripts.js"
+}
